@@ -14,7 +14,7 @@ max-width: 100%;
 
 
  body {
-   font-family: 'Open Sans', sans-serif;
+   font-family: 'Roboto Thin', sans-serif;
  }
 
 
@@ -28,7 +28,7 @@ max-width: 100%;
 
 
  a {
-   color: #6ab47b;
+   color: #252829;
 
  }
 
@@ -58,13 +58,13 @@ header {
  }
 
  h1  {
- font-family: 'Changa One', sans-serif;
+ font-family: 'Roboto Thin', sans-serif;
  margin: 10px 0;
  font-size: 1.75em;
  font-weight: normal;
  line-height: 0.5;
  text-align: center;
- color: 	#FF0000;
+ color: 	#252829;
 
  }
 
@@ -164,7 +164,7 @@ COLORS
  /* logo text*/
 
  h1,h2  {
-    color: #32673f;
+    color: #252829;
 }
 
 /* nav background on mobile devices*/
